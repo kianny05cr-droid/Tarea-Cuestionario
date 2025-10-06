@@ -6,4 +6,49 @@ output:
   rmdformats::material
 ---
 
+## Registro de nuevos bailarines
 
+## Introducción
+
+#### Propósito del cuestionario:
+Este cuestionario tiene como finalidad recopilar información básica sobre los aspirantes a ingresar a la academia de baile, con el fin de asignarles el nivel adecuado y diseñar una experiencia formativa personalizada.
+
+#### Importancia del estudio:
+
+Conocer el perfil, intereses y nivel de experiencia de cada participante permite a la academia mejorar la calidad de la enseñanza, adaptar los contenidos y promover el desarrollo artístico de los estudiantes desde sus propias motivaciones.
+
+#### Instrucciones generales para los participantes:
+•	Responda con sinceridad y claridad.
+•	No hay respuestas correctas o incorrectas.
+•	El tiempo estimado para completar el cuestionario es de 5 a 10 minutos.
+•	Si no está seguro/a de alguna respuesta, puede marcar “No sabe / No responde” cuando esté disponible.
+
+#### Confidencialidad y uso de los datos:
+La información recopilada será utilizada exclusivamente para fines administrativos y pedagógicos dentro de la academia. Los datos serán tratados de forma confidencial y no se compartirán con terceros sin consentimiento previo.
+
+## Población Meta
+
+#### Características demográficas:
+Personas mayores de 12 años interesadas en aprender danza urbana o clásica, residentes en el área metropolitana.
+
+#### Criterios de inclusión:
+•	Interés genuino en participar en clases de danza.
+•	Disponibilidad para asistir a clases presenciales.
+•	Disposición para participar en actividades grupales y presentaciones.
+
+
+
+#### Criterios de exclusión:
+•	Personas que no puedan comprometerse con la asistencia regular.
+•	Aspirantes que ya estén inscritos en otro programa de formación artística con horarios incompatibles.
+
+#### Tamaño estimado de la población:
+Se estima una población meta de entre 80 y 150 aspirantes por temporadas de inscripción.
+
+### Objetivo General:
+
+Identificar el perfil, nivel de experiencia, intereses y motivaciones de los aspirantes a ingresar a la academia de baile, con el fin de asignarles el nivel formativo adecuado y diseñar una ruta de aprendizaje personalizada que promueva su desarrollo artístico.
+
+### Link del formulario
+
+<a href="https://forms.gle/C6CFFKNZYrmAEeQYA">Enlace al formulario</a>
