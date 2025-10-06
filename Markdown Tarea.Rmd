@@ -1,0 +1,9 @@
+---
+title: "Ingreso de nuevos bailarines"
+author: "Kianny Cervantes Ramírez"
+date: "`r Sys.Date()`"
+output: 
+  rmdformats::material
+---
+
+
